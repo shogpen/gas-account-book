@@ -189,7 +189,7 @@ export default {
 
     /** ダイアログのタイトル */
     titleText () {
-      return this.actionType === 'add' ? 'データ追加' : 'データ編集'
+      return this.actionType === 'add' ? 'データ追加だ' : 'データ編集'
     },
     /** ダイアログのアクション */
     actionText () {
