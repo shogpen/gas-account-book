@@ -3,7 +3,7 @@
     <!-- ツールバー -->
     <v-app-bar app color="green" dark>
       <!-- タイトル -->
-      <v-toolbar-title>{{ appName }}</v-toolbar-title>
+      <v-toolbar-title>{{ appName }} + da</v-toolbar-title>
       <v-spacer></v-spacer>
       <!-- テーブルアイコンのボタン -->
       <v-btn icon to="/">
